@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+* { margin: 1; padding: 1px; border: 1; font-size: 100%; }
+
+
+.something {
+    background-color: #ACA8A8;
+    width: 446px;
+    border-radius: 10px;
+    height: 466px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+}
+body {
+    background-image: url(images/Minimalist-Crumpled-Paper-Simple-Background-Image.jpg);
+    background-repeat: repeat;
+    color: #F7F7F7;
+}
+body {
+}
+body {
+}
+.link {
+    background-color: #000000;
+    width: 559px;
+    height: 21px;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    text-shadow: 0px 0px;
+}
+
